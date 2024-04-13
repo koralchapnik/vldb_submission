@@ -1,0 +1,8 @@
+pytest
+numpy
+scipy
+colorama
+pandas
+aiohttp
+requests
+sklearn
